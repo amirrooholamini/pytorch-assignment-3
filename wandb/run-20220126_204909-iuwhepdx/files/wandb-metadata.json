@@ -1,0 +1,22 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2022-01-26T17:19:13.593104",
+    "startedAt": "2022-01-26T17:19:09.556745",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:/Education/Pytorch/Assignments/pytorch-assignment-3/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/amirrooholamini/pytorch-assignment-3.git",
+        "commit": "53535a926d16de2570482b271c1524dfb85f73b6"
+    },
+    "email": "amirrooholamini@gmail.com",
+    "root": "D:/Education/Pytorch/Assignments/pytorch-assignment-3",
+    "host": "AmirPC",
+    "username": "lenovo",
+    "executable": "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
